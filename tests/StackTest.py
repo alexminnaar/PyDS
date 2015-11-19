@@ -1,5 +1,4 @@
 import unittest
-
 from stack.Stack import Stack
 
 

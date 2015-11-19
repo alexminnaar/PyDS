@@ -1,3 +1,5 @@
+# Implementation of a stack data structure.
+# Stacks are FILO
 class Stack:
 
     def __init__(self, max_size):
